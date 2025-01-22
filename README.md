@@ -15,6 +15,7 @@ A basic Java-based console application that simulates a simple banking system. T
 
 ## Future Improvements
 
+- UI (currently Simulation only working in console)
 - Add a login system for multiple users.
 - File handling (for saving account details and transaction history)
 - Use a database or more advanced file storage methods for better data handling.
