@@ -1,6 +1,6 @@
 # Simple Banking System
 
-A basic Java-based console application that simulates a simple banking system. The system allows users to create accounts, deposit money, withdraw money, check balances, and view transaction history.
+A basic Java-based console application that simulates a simple banking system. The system allows users to create accounts, deposit money, withdraw money and check balances.
 
 ## Features
 
@@ -16,6 +16,7 @@ A basic Java-based console application that simulates a simple banking system. T
 ## Future Improvements
 
 - Graphical User Interface
+- View Transaction History
 - Add a login system for multiple users.
 - File handling (for saving account details and transaction history)
 - Use a database or more advanced file storage methods for better data handling.
